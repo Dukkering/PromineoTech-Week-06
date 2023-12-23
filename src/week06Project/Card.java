@@ -27,6 +27,6 @@ public void setValue(int value) {
 
 // Method 'describe' to describe the value of the given card
 public void describe() {
-	System.out.println(value + " " + name);
+	System.out.println(value + "- " + name);
 	}
 }
